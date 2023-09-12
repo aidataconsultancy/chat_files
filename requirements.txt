@@ -6,4 +6,5 @@ openai
 chromadb
 tiktoken
 docx2txt
+faiss-cpu
 
